@@ -1,0 +1,410 @@
+.head1{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(211, 253, 253);
+    position: sticky;
+    top: 0px;
+}
+.head2{
+    width: 100%;
+    height: 760px;
+    background-color: rgb(189, 221, 252);
+}
+.img1{
+    margin-left: 715px;
+}
+.hd1{
+    font-size: 70px;
+    margin-top: 20px;
+}
+#l1{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(180, 85, 243);
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.link{
+    width: 55%;
+    height: 70px;
+    margin-left: 555px;
+    background-color: rgb(211, 253, 253);
+    margin-top: -105px;
+    position: sticky;
+    top: 0px;
+}
+#l2{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(180, 85, 243);
+    margin-left: 20px;
+}
+#l3{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(180, 85, 243);
+    margin-left: 20px; 
+}
+#l4{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(180, 85, 243);
+    margin-left: 20px;
+}
+#l5{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(180, 85, 243);
+    margin-left: 30px; 
+}
+#button1{
+    border-radius: 70px;
+    height: 30px;
+    margin-left: 35px;
+    background-color: rgb(185, 107, 12);
+    width: 160px;
+    font-size: 20px;
+    color: white;
+}
+.para1{
+    width: 40%;
+    height: 300px;
+    margin-top: -630px;
+    margin-left: 60px;
+}
+#para1{
+    font-size: 55px;
+    font-style: oblique;
+    font-family: sans-serif;
+}
+#para2{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#button2{
+    border-radius: 70px;
+    height: 30px;
+    margin-left: 110px;
+    background-color: rgb(185, 107, 12);
+    width: 160px;
+    font-size: 20px;
+    color: white;
+}
+.head3{
+    width: 100%;
+    height: 1500px;
+    background-color: rgb(41, 44, 94);
+}
+.sub1{
+    width: 25%;
+    height: 250px;
+    float: left;
+}
+.img2{
+    width: 90%;
+    height: 410px;
+    border-radius: 70px;
+    margin-top: 160px;
+    margin-left: 20px;
+}
+.img3{
+    width: 90%;
+    height:410px;
+    border-radius: 70px;
+    margin-top: 160px;
+    margin-left: 20px;
+}
+.img4{
+    width: 90%;
+    height: 410px;
+    border-radius: 70px;
+    margin-top: 160px;
+    margin-left: 20px;
+}
+.img5{
+    width: 90%;
+    height:410px;
+    border-radius: 70px;
+    margin-top: 160px;
+    margin-left: 20px;
+}
+.fresh{
+    margin-left: 195px;
+    margin-top: -255px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.coffe{
+    margin-left: 92px;
+    margin-top: 0px;
+    color: white;
+    font-size: 40px;
+}
+.tasty{
+    margin-left: 219px;
+    margin-top: -255px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.snacks{
+    margin-left: 186px;
+    margin-top: 0px;
+    color: white;
+    font-size: 40px;
+}
+.relible{
+    margin-left: 180px;
+    margin-top: -255px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.equipment{
+    margin-left: 130px;
+    margin-top: 0px;
+    color: white;
+    font-size: 40px;
+}
+.veried{
+    margin-left: 190px;
+    margin-top: -255px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.supplies{
+    margin-left: 155px;
+    margin-top: 0px;
+    color: white;
+    font-size: 40px;
+}
+.head4{
+    width: 50%;
+    height: 660px;
+    margin-top: -770px;
+    background-color: rgb(151, 198, 252);
+    border-radius: 23px;
+}
+#para3{
+    margin-top: 27px;
+    margin-left: 40px;
+    color: white;
+    font-style: italic;
+    font-size: 28px;
+    font-weight: bolder;
+}
+#cover_coffe{
+    width: 32%;
+    height: 380px;
+    margin-left: 893px;
+    margin-top: 645px;
+}
+#space{
+    width: 32%;
+    height: 380px;
+    margin-left: 1212px;
+    margin-top: -385px;
+    background-color: rgb(142, 136, 199);
+    border-radius: 30px;
+}
+.wdha{
+    margin-top: -195px;
+    margin-left: 1532px;
+    font-size: 40px;
+    color: black;
+    font-family: fantasy;
+}
+#head5{
+    width: 100%;
+    height: 1800px;
+    background-color: rgb(41, 44, 94);
+    margin-top: 60px;
+    border-radius: 30px;
+}
+.product{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(248, 203, 145);
+    border-radius: 15px;
+}
+.pro{
+    margin-top: 35px;
+    margin-left: 35px;
+    font-size: 65px;
+    text-shadow: black;
+    color: white;
+}
+#p1960{
+    margin-top: 10px;
+    margin-left: 455px;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(191, 152, 209);
+    font-family: cursive;
+}
+#name{
+    margin-top: -65px;
+    margin-left: 565px;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(191, 152, 209);
+    font-family: cursive;
+}
+#needs{
+    margin-top: 50px;
+    margin-left: 185px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: rgb(191, 152, 209);
+}
+#needs1{
+    margin-top: 5px;
+    margin-left: 172px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: rgb(191, 152, 209);
+}
+#needs2{
+    margin-top: 5px;
+    margin-left: 690px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: rgb(191, 152, 209);
+}
+#dri2{
+    width: 33.3%;
+    height: 832px;
+    float: left;
+    margin-top: 550px;
+}
+#chocolate{
+    width: 70%;
+    height: 265px;
+    border-radius: 20px;
+    margin-left: 90px;
+}
+#jis{
+    font-size: 45px;
+    margin-left: 90px;
+    color: white;
+    font-family: initial;
+}
+#jis1{
+    font-size: 23px;
+    margin-left: 90px;
+    color: white;
+    font-family: sans-serif;
+}
+#kic1{
+    margin-left: 75px;
+    font-size: 23px;
+    color: white;
+    font-family: sans-serif
+}
+#jis2{
+    font-size: 45px;
+    margin-left: 90px;
+    color: white;
+    font-family: initial;
+}
+#jis3{
+    font-size: 45px;
+    margin-left: 90px;
+    color: white;
+    font-family: initial;
+    margin-top: -35px;
+}
+#jis4{
+    font-size: 23px;
+    margin-left: 90px;
+    color: white;
+    font-family: sans-serif;
+}
+#ask{
+    width: 100%;
+    height: 1100px;
+    background-color: rgb(41, 44, 94);
+    margin-top: -235px;
+} 
+#asiq{
+    width: 33.3%;
+    height: 832px;
+    float: left;
+}
+#lit{
+    width: 70%;
+    height: 265px;
+    border-radius: 20px;
+    margin-left: 90px;
+}
+#lit1{
+    width: 70%;
+    height: 265px;
+    border-radius: 20px;
+    margin-left: 90px;
+}
+#lit2{
+    width: 70%;
+    height: 265px;
+    border-radius: 20px;
+    margin-left: 90px;
+}
+#footer{
+    width: 100%;
+    height: 250px;
+    background-color: black;
+    margin-top: -50px;
+    border-radius: 200px;
+}
+#footer1{
+    width: 25%;
+    height: 250px;
+    float: left;
+    background-color: black;
+    border-radius: 30px;
+}
+#lover{
+    font-size: 105px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+#service{
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+    font-family: cursive;
+    margin-top: 20px;
+}
+#li12{
+    color: white;
+    margin-top: 20px;
+}
+#email{
+    color: white;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: black;
+}
+#jk{
+    width: 65px;
+    height: 21px;
+    background-color: green;
+    color: white;
+}
+#con{
+    color: white;
+    font-size: 25px;
+    margin-left: 20px;
+}
+#fb{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
